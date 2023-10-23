@@ -15,4 +15,4 @@
    </div>
     
 
-![snake gif](https://github.com/YOUR_USERNAME/jonatasvcvieira/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/jonatasvcvieira/jonatasvcvieira/blob/output/github-contribution-grid-snake.gif)
